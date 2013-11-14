@@ -1,5 +1,5 @@
-<!Aditya Pradita S. 18211001>
-<!Rakaputra 18211059>
+<!Aditya Pradita S. (18211001)>
+<!Rakaputra (18211059)>
 <!Kode diambil dari http://congnghejava.blogspot.com/2013/02/24-jsp-database-access.html dengan beberapa perubahan untuk menyesuaikan dengan database yang kami buat>
 
 <%@ page import="java.io.*,java.util.*,java.sql.*"%>
