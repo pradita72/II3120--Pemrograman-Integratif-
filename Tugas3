@@ -1,0 +1,78 @@
+<!doctype html>
+<?php //Dibuat Oleh
+//Aditya Pradita S. - 18211001
+//Rakaputra - 18211059)?>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Tugas 3</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="author" href="humans.txt">
+    </head>
+<body>
+	<div class="center">
+	<? php 
+	$xml1 = simplexml_load_file("DaftarIdol.xml");
+	$xml2 = simplexml_load_file("progin_FajrinRyan.xml");
+	$xml3 = simplexml_load_file("DataXML.xml");
+	$xml4 = simplexml_load_file ("menu.xml");
+	$xml5 = simplexml_load_file ("makanan.xml");
+	$xml6 = simplexml_load_file ("Menu2.xml");
+	$xml7 = simplexml_load_file ("xmldb.xml");
+	$xml8 = simplexml_load_file ("menu3.xml");
+	$xml9 = simplexml_load_file ("myData.xml");
+	$xml10 = simplexml_load_file ("csvoutput.xml");
+	$xml11 = simplexml_load_file ("record.xml");
+	$xml12 = simplexml_load_file ("output.xml");
+	$xml13 = simplexml_load_file ("contoh.xml");
+	$xml14 = simplexml_load_file ("data.xml");
+	$xml15 = simplexml_load_file ("1.xml");
+	$xml16 = simplexml_load_file ("buku.xml");
+	$xml17 = simplexml_load_file ("test.xml");
+	$xml18 = simplexml_load_file ("menu.xml");
+	$xml19 = simplexml_load_file ("datasiswa.xml");
+	echo "Aditya Pradita dan Rakaputra";
+	echo $xml1->DaftarIdol . "<br>";
+	echo "M. Fajrin dan Ryan";
+	echo $xml2->itb . "<br>";
+	echo "Bernadette Vina dan Stella Kurniawan";
+	echo $xml3->mydata . "<br>";
+	echo "Bintang Adinandra dan Kamila Widyanto";
+	echo $xml4->mydata . "<br>";
+	echo "Andy Primawan dan Habib Mufid Ridho";
+	echo $xml5->daftar . "<br>";
+	echo "Dinda Tisi Calista dan Khairani Ummah";
+	echo $xml6->Menu . <"br>";
+	echo "Danny Pranoto dan Gumarus William";
+	echo $xml7->xml . <"br>";
+	echo "Nurafni Eka Agustina dan Nicolas Novian Rusli";
+	echo $xml8->daftar_minuman . <"br>";
+	echo "Farrel Yodihartomo dan Azka Ihsan Nurrahman";
+	echo $xml9->tickets . <"br>";
+	echo "Abraham Wahyu Kurniawan dan Ricky";
+	echo $xml10->root . <"br>";
+	echo "Adhela Indah P. dan Indra Kusuma Putra";
+	echo $xml11->Gym . <"br>";
+	echo "Gilang Ramadhan dan Antragama Ewa Abbas";
+	echo $xml12->TabelMahasiswa . <"br>";
+	echo "(tidak ada nama)";
+	echo $xml13->data . <"br>";
+	echo "Raosan Fikri Lillahi dan Fady Noor Ilmi";
+	echo $xml14->data . <"br>";
+	echo "M. Sena Luphdika dan Kurniawan Adhi Sanjaya";
+	echo $xml15->daftar_koran . <"br>";
+	echo "Ahmad Faiz Nasshor dan Ikhawanul Hakim";
+	echo $xml16->xml . <"br>";
+	echo "M. Ilman Nur Akbar dan Stefio Kurniadi";
+	echo $xml17->menu . <"br>";
+	echo "Christian Hendy dan Ryan A. Akbar";
+	echo $xml18->table . <"br>";
+	echo "Rindy Nuari dan Widya Rarasati";
+	echo $xml19->datasiswa . <"br>";
+	?>
+	</div>
+</body>
+</html>
