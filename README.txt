@@ -16,6 +16,7 @@ langkah-langkahnya:
 *catatan: anda harus memiliki GlassFish Server untuk bisa menjalankan file sqlreader.jsp
 
 Tugas 2:
+- Download file "ShowIdol.php", "ShowJuri.php, "ShowLagu.php", dan "Tugas2.php", atau download repository ini secara keseluruhan
 - Jalankan file "Tugas2.php" pada localhost anda
 - Klik salah satu button untuk memperoleh informasi yang diinginkan
 - Atau:
