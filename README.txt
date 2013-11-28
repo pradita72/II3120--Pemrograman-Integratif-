@@ -19,6 +19,6 @@ Tugas 2:
 - Jalankan file "Tugas2.php" pada localhost anda
 - Klik salah satu button untuk memperoleh informasi yang diinginkan
 - Atau:
-1. Ketikkan URL /ShowIdol.php?show=Info+Idol untuk memperoleh info tentang Idol yang akan tampil
-2. Ketikkan URL /ShowIdol.php?show=Info+Juri untuk memperoleh info tentang Idol yang akan menilai
-3. Ketikkan URL /ShowIdol.php?show=Info+Lagu untuk memperoleh info tentang Lagu yang akan ditampilkan
+1. Ketikkan URL ./pradita72/II3160--Pemrograman-Integratif-/ShowIdol.php?show=Info+Idol untuk memperoleh info tentang Idol yang akan tampil
+2. Ketikkan URL ./pradita72/II3160--Pemrograman-Integratif-/ShowJuri.php?show=Info+Juri untuk memperoleh info tentang Idol yang akan menilai
+3. Ketikkan URL ./pradita72/II3160--Pemrograman-Integratif-/ShowLagu.php?show=Info+Lagu untuk memperoleh info tentang Lagu yang akan ditampilkan
