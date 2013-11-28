@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DaftarJuri>
+
+<Juri>
+<No>1</No>
+<Nama>Albert Sesley</Nama>
+<Akreditasi>A</Akreditasi>
+<Kategori>Vocal</Kategori>
+</Juri>
+
+<Juri>
+<No>2</No>
+<Nama>Pearce Morgan</Nama>
+<Akreditasi>C</Akreditasi>
+<Kategori>Visual</Kategori>
+</Juri>
+
+<Juri>
+<No>3</No>
+<Nama>Tim Lewis</Nama>
+<Akreditasi>B</Akreditasi>
+<Kategori>Visual</Kategori>
+</Juri>
+
+<Juri>
+<No>4</No>
+<Nama>John Cross</Nama>
+<Akreditasi>A</Akreditasi>
+<Kategori>Dance</Kategori>
+</Juri>
+
+<Juri>
+<No>5</No>
+<Nama>Carlkinson Jen</Nama>
+<Akreditasi>B</Akreditasi>
+<Kategori>Vocal</Kategori>
+</Juri>
+
+</DaftarJuri>
