@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DaftarLagu>
+	<Lagu>
+	<No>1</No>
+	<Judul>Go My Way!</Judul>
+	<Pengarang>Yukiho Tanaka</Pengarang>
+	<Durasi>3:55</Durasi>
+	<Genre>Pop</Genre>
+	</Lagu>
+	
+	<Lagu>
+	<No>2</No>
+	<Judul>Cinta Durjana</Judul>
+	<Pengarang>Yukiho Tanaka</Pengarang>
+	<Durasi>4:01</Durasi>
+	<Genre>Dangdut</Genre>
+	</Lagu>
+
+	<Lagu>
+	<No>3</No>
+	<Judul>White Christmas</Judul>
+	<Pengarang>Takane Amagawa</Pengarang>
+	<Durasi>4:12</Durasi>
+	<Genre>Religi</Genre>
+	</Lagu>
+	
+	<Lagu>
+	<No>4</No>
+	<Judul>Rainbow</Judul>
+	<Pengarang>Yukiho Tanaka</Pengarang>
+	<Durasi>3:50</Durasi>
+	<Genre>Pop Rock</Genre>
+	</Lagu>
+	
+	<Lagu>
+	<No>5</No>
+	<Judul>Agent Comes at Night</Judul>
+	<Pengarang>Takane Amagawa</Pengarang>
+	<Durasi>5:23</Durasi>
+	<Genre>Pop</Genre>
+	</Lagu>
+
+</DaftarLagu>
