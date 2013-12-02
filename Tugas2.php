@@ -27,6 +27,27 @@
     <input type="submit" name="show" value="Info Juri" id="submit" />
   </form>
   </p>
+  <br />
+  <br />
+  
+    <form><input type="button" name="show" value="XML Idol" 
+onClick="window.location.href='http://localhost/Progint/Tugas%202/DaftarIdol.xml'"/>
+  </form>
+  </p>
+   <form><input type="button" name="show" value="XML Lagu" 
+onClick="window.location.href='http://localhost/Progint/Tugas%202/DaftarIdol.xml'"/>
+  </form>
+  </p>
+   <form><input type="button" name="show" value="XML Juri" 
+onClick="window.location.href='http://localhost/Progint/Tugas%202/DaftarIdol.xml'"/>
+  </form>
+  </p>
+  
+  <br />
+  <form action="Tugas3.php" method="get">
+    <input type="submit" name="show" value="Servis Teman" id="submit" />
+  </form>
+  </p>
   
   <h1>Created by: </h1>
   <h2>Aditya Pradita S. (18211001)</h2>
