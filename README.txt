@@ -23,3 +23,10 @@ Tugas 2:
 1. Ketikkan URL ./pradita72/II3160--Pemrograman-Integratif-/ShowIdol.php?show=Info+Idol untuk memperoleh info tentang Idol yang akan tampil
 2. Ketikkan URL ./pradita72/II3160--Pemrograman-Integratif-/ShowJuri.php?show=Info+Juri untuk memperoleh info tentang Idol yang akan menilai
 3. Ketikkan URL ./pradita72/II3160--Pemrograman-Integratif-/ShowLagu.php?show=Info+Lagu untuk memperoleh info tentang Lagu yang akan ditampilkan
+
+Tugas 3:
+- Download semua servis teman dari akun git masing-masing, dengan menjalankan script (.sh atau .bat) yang ada di akun Andy Primawan
+- Taruh semua di folder htdocs (dimana tempat webserver terinstall)
+- Jalankan tugas 2
+- Klik button "Servis Teman"
+Catatan: untuk tugas 3 ini, kami langsung mengkonversikannya ke dalam bentuk informasi dalam format yang telah kami buat sendiri
