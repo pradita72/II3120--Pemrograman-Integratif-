@@ -27,6 +27,6 @@ Tugas 2:
 Tugas 3:
 - Download semua servis teman dari akun git masing-masing, dengan menjalankan script (.sh atau .bat) yang ada di akun Andy Primawan
 - Taruh semua di folder htdocs (dimana tempat webserver terinstall)
-- Jalankan tugas 2
+- Jalankan "Tugas2.php"
 - Klik button "Servis Teman"
 Catatan: untuk tugas 3 ini, kami langsung mengkonversikannya ke dalam bentuk informasi dalam format yang telah kami buat sendiri
